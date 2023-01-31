@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Olá! Eu sou Giovanna Gonçalves, estudante de Programação</h2>
+<h2> Olá! Me chamo Giovanna Gonçalves e bem vindo ao meu GitHub!</h2>
 
 <div align="center">
   <a href="https://github.com/Giovanna-GS">
