@@ -1,51 +1,87 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4B6D8&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:EA98B4&height=180&section=header&text=Giovanna%20Gonçalves&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
-# ✦ Giovanna OS
-
-### UX/UI Designer • Digital Experiences • Interactive Interfaces
-
-*"Exploring design through nostalgia, storytelling and playful interactions."*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=18&duration=3500&pause=1000&color=F4B6D8&center=true&vCenter=true&width=500&lines=Welcome+to+Giovanna+OS;UX%2FUI+Designer;Designing+meaningful+digital+experiences;Inspired+by+retro+operating+systems"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=24&duration=3000&pause=1000&color=EA98B4&center=true&vCenter=true&width=700&lines=✨+UX%2FUI+Designer;🌙+Designing+digital+experiences;🚀+Exploring+new+universes+through+design;💫+Always+learning+something+new)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💾 About Me
+## 🌌 About Me
 
-Hi! I'm Giovanna, a UX/UI Designer passionate about creating digital experiences that combine functionality, storytelling and emotion.
-
-My work explores:
-
-✦ User Experience Design
-✦ Interface Design
-✦ Design Systems
-✦ Interactive Experiences
-✦ Creative Front-End
-✦ Digital Storytelling
+```yaml
+name: Giovanna Gonçalves
+role: UX/UI Designer
+location: São Paulo, Brazil
+focus:
+  - User Experience
+  - Interface Design
+  - Design Systems
+  - Creative Development
+  - Product Design
+```
 
 ---
 
+## 🪐 Current Mission
 
-## 💌 Connect
+- 🎨 Creating meaningful user experiences
+- 🌊 Building projects with social impact
+- 🚀 Learning Product Design
+- 💫 Exploring interactive interfaces
+- 🌙 Turning ideas into digital experiences
 
-[LinkedIn](https://www.linkedin.com/in/giovanna-goncalves/)
+---
 
-[Portfolio](https://gigoncalves.framer.website/)
+## ✨ Tech Stack
 
-[Giovanna OS](https://giovanna-os.vercel.app/)
+<div align="center">
 
-[Email](mailto:giovanna.gsouza99@gmail.com)
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,react,nextjs,tailwind,git,vscode"/>
+
+</div>
+
+---
+
+## 📊 Galaxy Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-GS&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-GS&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌠 Connect With Me
+
+<div align="center">
+
+<a href="mailto:giovanna.gsouza99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA98B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/giovanna-goncalves/">
+<img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/giovanna_gsouza/">
+<img src="https://img.shields.io/badge/Instagram-EA98B4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-✨ Thanks for visiting ✨
+### 🌙 Lost somewhere between pixels and the stars ✨
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4B6D8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:EA98B4&height=180&section=footer"/>
