@@ -31,6 +31,7 @@ focus:
 - 🚀 Learning Product Design
 - 💫 Exploring interactive interfaces
 - 🌙 Turning ideas into digital experiences
+- 🌔 Front-end Developer
 
 ---
 
@@ -44,15 +45,7 @@ focus:
 
 ---
 
-## 📊 Galaxy Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-GS&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-GS&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
