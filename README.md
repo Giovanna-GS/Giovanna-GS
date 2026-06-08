@@ -39,7 +39,7 @@ focus:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,react,nextjs,tailwind,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,git,vscode"/>
 
 </div>
 
