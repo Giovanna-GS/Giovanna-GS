@@ -29,27 +29,6 @@ My work explores:
 
 ---
 
-## 📁 Featured Projects
-
-🖥️ **Giovanna OS**
-An interactive portfolio inspired by retro operating systems.
-
-🌊 **EcoMar**
-Educational platform focused on ocean awareness and sustainability.
-
-🤝 **NGO Platform**
-UX/UI project developed to improve engagement and communication for a non-profit organization.
-
----
-
-## 🎧 Currently Playing
-
-```txt
-Now Playing...
-Dreams — Fleetwood Mac
-```
-
----
 
 ## 💌 Connect
 
@@ -65,7 +44,7 @@ Dreams — Fleetwood Mac
 
 <div align="center">
 
-✨ Thanks for visiting my digital desktop ✨
+✨ Thanks for visiting ✨
 
 </div>
 
